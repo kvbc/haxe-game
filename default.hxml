@@ -1,0 +1,7 @@
+-lib hxbit
+-lib hxmath
+-lib utest
+-lib heaps
+-cp src
+-lib hlsdl
+-D windowSize=1920x1080

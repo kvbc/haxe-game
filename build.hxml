@@ -1,0 +1,3 @@
+default.hxml
+-m Game
+-hl build/output.hl

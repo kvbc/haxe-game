@@ -1,0 +1,1 @@
+br -D hl-profile && hl --profile 10000 build/output.hl && hl profiler.hl hlprofile.dump && start chrome --auto-open-devtools-for-tabs

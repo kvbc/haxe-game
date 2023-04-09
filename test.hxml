@@ -1,0 +1,3 @@
+default.hxml
+-m tests.Main
+-hl build/output.hl
