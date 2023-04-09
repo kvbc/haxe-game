@@ -1,3 +1,5 @@
+![](github/preview.gif)
+
 TODO
 - potentially split chunk saving into multiple files
 - color split assets at compile time
