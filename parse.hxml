@@ -1,4 +1,3 @@
 default.hxml
 -m tileparser.Main
 -hl build/tileparser.hl
--D parsing

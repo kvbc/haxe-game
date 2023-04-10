@@ -2,6 +2,7 @@
 -lib hxmath
 -lib utest
 -lib heaps
+-lib json2object
 -cp src
 -lib hlsdl
 -D windowSize=1920x1080

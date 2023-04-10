@@ -1,0 +1,3 @@
+default.hxml
+-m world.tilemapgen.Main
+-hl build/tilemapgen.hl

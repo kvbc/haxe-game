@@ -1,0 +1,974 @@
+{
+	"SAND GRASS WATER GRASS GRASS": [
+		2,
+		7
+	],
+	"SAND WATER - GRASS WATER": [
+		12,
+		5
+	],
+	"GRASS WATER - - WATER": [
+		28,
+		8
+	],
+	"WATER - GRASS - SAND": [
+		30,
+		0
+	],
+	"SAND WATER GRASS - GRASS": [
+		31,
+		5
+	],
+	"SAND - - - WATER": [
+		28,
+		3
+	],
+	"WATER - GRASS GRASS GRASS": [
+		7,
+		1
+	],
+	"GRASS SAND SAND WATER -": [
+		0,
+		11
+	],
+	"GRASS - SAND WATER -": [
+		16,
+		8
+	],
+	"WATER GRASS SAND - -": [
+		30,
+		2
+	],
+	"SAND GRASS - - WATER": [
+		12,
+		6
+	],
+	"SAND GRASS GRASS WATER -": [
+		8,
+		7
+	],
+	"GRASS - WATER SAND -": [
+		7,
+		8
+	],
+	"WATER SAND - SAND GRASS": [
+		17,
+		1
+	],
+	"SAND - WATER - WATER": [
+		9,
+		4
+	],
+	"GRASS - WATER SAND WATER": [
+		9,
+		8
+	],
+	"GRASS SAND WATER - WATER": [
+		17,
+		10
+	],
+	"SAND WATER WATER - WATER": [
+		17,
+		5
+	],
+	"SAND WATER GRASS WATER WATER": [
+		2,
+		6
+	],
+	"WATER SAND SAND - -": [
+		22,
+		1
+	],
+	"GRASS WATER WATER SAND SAND": [
+		18,
+		9
+	],
+	"SAND GRASS - WATER GRASS": [
+		17,
+		6
+	],
+	"SAND WATER - WATER -": [
+		6,
+		5
+	],
+	"GRASS WATER WATER - -": [
+		6,
+		9
+	],
+	"WATER GRASS SAND - SAND": [
+		1,
+		3
+	],
+	"WATER GRASS SAND GRASS SAND": [
+		9,
+		3
+	],
+	"SAND - WATER - -": [
+		6,
+		4
+	],
+	"GRASS SAND SAND WATER WATER": [
+		2,
+		11
+	],
+	"WATER - SAND - GRASS": [
+		18,
+		0
+	],
+	"SAND - - - -": [
+		13,
+		7
+	],
+	"WATER SAND GRASS SAND GRASS": [
+		11,
+		2
+	],
+	"WATER SAND - - -": [
+		8,
+		1
+	],
+	"WATER - SAND SAND -": [
+		19,
+		0
+	],
+	"SAND - GRASS WATER WATER": [
+		26,
+		4
+	],
+	"GRASS SAND - - SAND": [
+		5,
+		10
+	],
+	"SAND - GRASS - WATER": [
+		22,
+		4
+	],
+	"WATER - SAND GRASS -": [
+		23,
+		0
+	],
+	"WATER GRASS SAND SAND SAND": [
+		5,
+		3
+	],
+	"SAND GRASS WATER GRASS WATER": [
+		1,
+		7
+	],
+	"GRASS - - SAND -": [
+		26,
+		7
+	],
+	"GRASS WATER SAND WATER -": [
+		24,
+		9
+	],
+	"GRASS WATER WATER SAND -": [
+		15,
+		9
+	],
+	"SAND WATER GRASS - WATER": [
+		30,
+		5
+	],
+	"GRASS WATER - SAND -": [
+		2,
+		9
+	],
+	"GRASS SAND SAND SAND WATER": [
+		6,
+		11
+	],
+	"SAND GRASS WATER - WATER": [
+		25,
+		6
+	],
+	"GRASS SAND SAND SAND SAND": [
+		7,
+		11
+	],
+	"WATER - SAND GRASS SAND": [
+		25,
+		0
+	],
+	"SAND GRASS GRASS GRASS -": [
+		12,
+		7
+	],
+	"GRASS SAND SAND WATER SAND": [
+		3,
+		11
+	],
+	"GRASS - - WATER WATER": [
+		24,
+		7
+	],
+	"WATER - - SAND SAND": [
+		8,
+		0
+	],
+	"WATER SAND GRASS - SAND": [
+		6,
+		2
+	],
+	"GRASS - SAND WATER WATER": [
+		18,
+		8
+	],
+	"GRASS SAND WATER WATER -": [
+		19,
+		10
+	],
+	"SAND WATER - GRASS -": [
+		10,
+		5
+	],
+	"SAND WATER WATER WATER GRASS": [
+		22,
+		5
+	],
+	"SAND WATER GRASS GRASS GRASS": [
+		7,
+		6
+	],
+	"SAND GRASS GRASS GRASS WATER": [
+		14,
+		7
+	],
+	"WATER - GRASS SAND SAND": [
+		2,
+		1
+	],
+	"SAND - - GRASS GRASS": [
+		5,
+		4
+	],
+	"WATER GRASS GRASS - GRASS": [
+		15,
+		3
+	],
+	"SAND WATER - - -": [
+		0,
+		5
+	],
+	"WATER GRASS - - -": [
+		16,
+		2
+	],
+	"WATER - - SAND GRASS": [
+		9,
+		0
+	],
+	"WATER GRASS SAND SAND -": [
+		3,
+		3
+	],
+	"WATER - GRASS GRASS -": [
+		4,
+		1
+	],
+	"SAND WATER - GRASS GRASS": [
+		13,
+		5
+	],
+	"WATER SAND SAND - GRASS": [
+		26,
+		1
+	],
+	"WATER SAND SAND GRASS SAND": [
+		1,
+		2
+	],
+	"SAND - - - GRASS": [
+		29,
+		3
+	],
+	"SAND - WATER WATER GRASS": [
+		14,
+		4
+	],
+	"WATER GRASS SAND GRASS GRASS": [
+		10,
+		3
+	],
+	"SAND GRASS - - GRASS": [
+		13,
+		6
+	],
+	"SAND - WATER - GRASS": [
+		10,
+		4
+	],
+	"WATER GRASS GRASS GRASS -": [
+		20,
+		3
+	],
+	"GRASS - SAND WATER SAND": [
+		19,
+		8
+	],
+	"GRASS WATER WATER - WATER": [
+		9,
+		9
+	],
+	"SAND - GRASS WATER -": [
+		24,
+		4
+	],
+	"GRASS - WATER WATER -": [
+		3,
+		8
+	],
+	"WATER GRASS SAND GRASS -": [
+		7,
+		3
+	],
+	"GRASS SAND - SAND -": [
+		10,
+		10
+	],
+	"WATER SAND SAND SAND -": [
+		27,
+		1
+	],
+	"SAND WATER WATER - GRASS": [
+		18,
+		5
+	],
+	"SAND WATER GRASS WATER -": [
+		0,
+		6
+	],
+	"GRASS WATER WATER WATER SAND": [
+		14,
+		9
+	],
+	"SAND WATER GRASS WATER GRASS": [
+		3,
+		6
+	],
+	"WATER SAND - GRASS SAND": [
+		20,
+		1
+	],
+	"GRASS SAND - - -": [
+		0,
+		10
+	],
+	"WATER GRASS GRASS GRASS SAND": [
+		22,
+		3
+	],
+	"WATER GRASS - SAND SAND": [
+		24,
+		2
+	],
+	"SAND - GRASS - -": [
+		19,
+		4
+	],
+	"SAND GRASS WATER WATER -": [
+		27,
+		6
+	],
+	"WATER - - SAND -": [
+		6,
+		0
+	],
+	"SAND GRASS GRASS - -": [
+		3,
+		7
+	],
+	"GRASS SAND WATER SAND WATER": [
+		25,
+		10
+	],
+	"SAND WATER WATER WATER WATER": [
+		21,
+		5
+	],
+	"WATER SAND GRASS SAND -": [
+		8,
+		2
+	],
+	"WATER - GRASS SAND GRASS": [
+		3,
+		1
+	],
+	"WATER SAND - SAND SAND": [
+		16,
+		1
+	],
+	"SAND - GRASS WATER GRASS": [
+		27,
+		4
+	],
+	"SAND - - GRASS WATER": [
+		4,
+		4
+	],
+	"GRASS - SAND SAND SAND": [
+		23,
+		8
+	],
+	"WATER - - GRASS -": [
+		10,
+		0
+	],
+	"WATER SAND - - SAND": [
+		12,
+		1
+	],
+	"WATER GRASS GRASS GRASS GRASS": [
+		23,
+		3
+	],
+	"WATER - GRASS - -": [
+		27,
+		0
+	],
+	"GRASS - SAND - -": [
+		11,
+		8
+	],
+	"WATER GRASS - SAND GRASS": [
+		25,
+		2
+	],
+	"SAND - WATER WATER WATER": [
+		13,
+		4
+	],
+	"GRASS WATER SAND SAND -": [
+		28,
+		9
+	],
+	"SAND GRASS WATER - GRASS": [
+		26,
+		6
+	],
+	"GRASS WATER - - -": [
+		24,
+		8
+	],
+	"GRASS SAND WATER SAND -": [
+		23,
+		10
+	],
+	"GRASS SAND - SAND WATER": [
+		12,
+		10
+	],
+	"GRASS - - SAND WATER": [
+		28,
+		7
+	],
+	"GRASS WATER SAND - -": [
+		19,
+		9
+	],
+	"SAND - GRASS GRASS -": [
+		28,
+		4
+	],
+	"WATER GRASS GRASS SAND GRASS": [
+		19,
+		3
+	],
+	"SAND - GRASS GRASS WATER": [
+		30,
+		4
+	],
+	"GRASS SAND - WATER SAND": [
+		9,
+		10
+	],
+	"GRASS - - WATER SAND": [
+		25,
+		7
+	],
+	"GRASS - WATER WATER SAND": [
+		6,
+		8
+	],
+	"GRASS - SAND - SAND": [
+		15,
+		8
+	],
+	"WATER SAND SAND SAND SAND": [
+		29,
+		1
+	],
+	"WATER SAND - - GRASS": [
+		13,
+		1
+	],
+	"GRASS WATER WATER WATER -": [
+		11,
+		9
+	],
+	"SAND WATER GRASS GRASS -": [
+		4,
+		6
+	],
+	"GRASS WATER SAND WATER WATER": [
+		26,
+		9
+	],
+	"GRASS SAND - SAND SAND": [
+		13,
+		10
+	],
+	"SAND - - WATER WATER": [
+		0,
+		4
+	],
+	"SAND GRASS WATER GRASS -": [
+		31,
+		6
+	],
+	"WATER - - GRASS GRASS": [
+		13,
+		0
+	],
+	"SAND GRASS WATER WATER GRASS": [
+		30,
+		6
+	],
+	"GRASS SAND - WATER WATER": [
+		8,
+		10
+	],
+	"SAND WATER - WATER WATER": [
+		8,
+		5
+	],
+	"GRASS WATER - SAND SAND": [
+		5,
+		9
+	],
+	"WATER SAND - GRASS -": [
+		18,
+		1
+	],
+	"SAND GRASS WATER - -": [
+		22,
+		6
+	],
+	"SAND GRASS GRASS GRASS GRASS": [
+		15,
+		7
+	],
+	"WATER SAND GRASS - -": [
+		3,
+		2
+	],
+	"WATER GRASS - GRASS GRASS": [
+		29,
+		2
+	],
+	"WATER GRASS - - GRASS": [
+		21,
+		2
+	],
+	"WATER SAND - GRASS GRASS": [
+		21,
+		1
+	],
+	"SAND GRASS - GRASS WATER": [
+		20,
+		6
+	],
+	"WATER SAND SAND - SAND": [
+		25,
+		1
+	],
+	"SAND GRASS GRASS - GRASS": [
+		7,
+		7
+	],
+	"GRASS - WATER - WATER": [
+		1,
+		8
+	],
+	"SAND WATER WATER GRASS GRASS": [
+		26,
+		5
+	],
+	"WATER SAND GRASS GRASS GRASS": [
+		15,
+		2
+	],
+	"WATER - - GRASS SAND": [
+		12,
+		0
+	],
+	"GRASS WATER SAND SAND SAND": [
+		31,
+		9
+	],
+	"WATER - - - SAND": [
+		4,
+		0
+	],
+	"WATER GRASS GRASS SAND SAND": [
+		18,
+		3
+	],
+	"GRASS WATER - SAND WATER": [
+		4,
+		9
+	],
+	"WATER GRASS - GRASS -": [
+		26,
+		2
+	],
+	"WATER GRASS - SAND -": [
+		22,
+		2
+	],
+	"GRASS WATER - WATER SAND": [
+		1,
+		9
+	],
+	"WATER GRASS GRASS - -": [
+		11,
+		3
+	],
+	"SAND WATER - - GRASS": [
+		5,
+		5
+	],
+	"GRASS WATER - WATER -": [
+		30,
+		8
+	],
+	"WATER GRASS GRASS - SAND": [
+		14,
+		3
+	],
+	"SAND GRASS - - -": [
+		8,
+		6
+	],
+	"GRASS SAND SAND - -": [
+		27,
+		10
+	],
+	"SAND - - WATER -": [
+		30,
+		3
+	],
+	"SAND GRASS GRASS WATER GRASS": [
+		11,
+		7
+	],
+	"WATER SAND - SAND -": [
+		14,
+		1
+	],
+	"SAND GRASS - WATER -": [
+		14,
+		6
+	],
+	"SAND - WATER WATER -": [
+		11,
+		4
+	],
+	"WATER GRASS SAND SAND GRASS": [
+		6,
+		3
+	],
+	"GRASS - - - WATER": [
+		20,
+		7
+	],
+	"WATER - GRASS SAND -": [
+		0,
+		1
+	],
+	"WATER - SAND - -": [
+		14,
+		0
+	],
+	"SAND - WATER GRASS GRASS": [
+		18,
+		4
+	],
+	"SAND GRASS - WATER WATER": [
+		16,
+		6
+	],
+	"SAND WATER WATER WATER -": [
+		19,
+		5
+	],
+	"SAND WATER GRASS - -": [
+		27,
+		5
+	],
+	"GRASS SAND SAND - SAND": [
+		31,
+		10
+	],
+	"WATER - GRASS - GRASS": [
+		31,
+		0
+	],
+	"WATER - SAND GRASS GRASS": [
+		26,
+		0
+	],
+	"SAND GRASS WATER WATER WATER": [
+		29,
+		6
+	],
+	"GRASS SAND - - WATER": [
+		4,
+		10
+	],
+	"GRASS - SAND SAND -": [
+		20,
+		8
+	],
+	"GRASS WATER SAND - SAND": [
+		23,
+		9
+	],
+	"WATER - - - -": [
+		21,
+		3
+	],
+	"GRASS SAND WATER - SAND": [
+		18,
+		10
+	],
+	"GRASS - WATER - SAND": [
+		2,
+		8
+	],
+	"WATER - GRASS GRASS SAND": [
+		6,
+		1
+	],
+	"WATER GRASS SAND - GRASS": [
+		2,
+		3
+	],
+	"GRASS - WATER - -": [
+		30,
+		7
+	],
+	"GRASS SAND WATER SAND SAND": [
+		26,
+		10
+	],
+	"WATER SAND GRASS - GRASS": [
+		7,
+		2
+	],
+	"GRASS - WATER WATER WATER": [
+		5,
+		8
+	],
+	"GRASS SAND SAND - WATER": [
+		30,
+		10
+	],
+	"GRASS - SAND - WATER": [
+		14,
+		8
+	],
+	"SAND GRASS GRASS - WATER": [
+		6,
+		7
+	],
+	"SAND WATER WATER GRASS WATER": [
+		25,
+		5
+	],
+	"WATER - SAND SAND GRASS": [
+		22,
+		0
+	],
+	"GRASS - SAND SAND WATER": [
+		22,
+		8
+	],
+	"GRASS SAND WATER - -": [
+		14,
+		10
+	],
+	"GRASS - - SAND SAND": [
+		29,
+		7
+	],
+	"SAND - GRASS GRASS GRASS": [
+		31,
+		4
+	],
+	"WATER GRASS - GRASS SAND": [
+		28,
+		2
+	],
+	"GRASS SAND WATER WATER WATER": [
+		21,
+		10
+	],
+	"SAND WATER - - WATER": [
+		4,
+		5
+	],
+	"WATER SAND GRASS GRASS -": [
+		12,
+		2
+	],
+	"GRASS WATER WATER SAND WATER": [
+		17,
+		9
+	],
+	"WATER - SAND SAND SAND": [
+		21,
+		0
+	],
+	"WATER SAND SAND GRASS -": [
+		31,
+		1
+	],
+	"SAND GRASS GRASS WATER WATER": [
+		10,
+		7
+	],
+	"SAND - - GRASS -": [
+		2,
+		4
+	],
+	"SAND - - WATER GRASS": [
+		1,
+		4
+	],
+	"WATER - SAND - SAND": [
+		17,
+		0
+	],
+	"GRASS WATER - WATER WATER": [
+		0,
+		9
+	],
+	"SAND GRASS - GRASS -": [
+		18,
+		6
+	],
+	"SAND - WATER GRASS -": [
+		15,
+		4
+	],
+	"SAND - WATER GRASS WATER": [
+		17,
+		4
+	],
+	"WATER SAND GRASS SAND SAND": [
+		10,
+		2
+	],
+	"SAND WATER - WATER GRASS": [
+		9,
+		5
+	],
+	"GRASS - - - -": [
+		5,
+		11
+	],
+	"GRASS - - WATER -": [
+		22,
+		7
+	],
+	"GRASS WATER WATER WATER WATER": [
+		13,
+		9
+	],
+	"GRASS SAND WATER WATER SAND": [
+		22,
+		10
+	],
+	"WATER GRASS GRASS SAND -": [
+		16,
+		3
+	],
+	"SAND WATER WATER GRASS -": [
+		23,
+		5
+	],
+	"WATER SAND SAND GRASS GRASS": [
+		2,
+		2
+	],
+	"WATER - - - GRASS": [
+		5,
+		0
+	],
+	"GRASS - - - SAND": [
+		21,
+		7
+	],
+	"GRASS WATER SAND SAND WATER": [
+		30,
+		9
+	],
+	"SAND WATER WATER - -": [
+		14,
+		5
+	],
+	"GRASS WATER WATER - SAND": [
+		10,
+		9
+	],
+	"SAND WATER GRASS GRASS WATER": [
+		6,
+		6
+	],
+	"GRASS WATER SAND WATER SAND": [
+		27,
+		9
+	],
+	"WATER GRASS - - SAND": [
+		20,
+		2
+	],
+	"GRASS - WATER SAND SAND": [
+		10,
+		8
+	],
+	"GRASS SAND - WATER -": [
+		6,
+		10
+	],
+	"GRASS WATER - - SAND": [
+		29,
+		8
+	],
+	"SAND GRASS - GRASS GRASS": [
+		21,
+		6
+	],
+	"WATER SAND SAND SAND GRASS": [
+		30,
+		1
+	],
+	"WATER SAND GRASS GRASS SAND": [
+		14,
+		2
+	],
+	"GRASS WATER SAND - WATER": [
+		22,
+		9
+	],
+	"SAND - GRASS - GRASS": [
+		23,
+		4
+	],
+	"GRASS SAND SAND SAND -": [
+		4,
+		11
+	]
+}
